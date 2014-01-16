@@ -1,0 +1,21 @@
+Platform_Scroller Tutorial/Assembly-CSharp-Editor-vs.csproj
+Platform_Scroller Tutorial/Assembly-CSharp-Editor.csproj
+Platform_Scroller Tutorial/Assembly-CSharp-vs.csproj
+Platform_Scroller Tutorial/Assembly-CSharp.csproj
+Platform_Scroller Tutorial/Assets/6by7/
+Platform_Scroller Tutorial/Library/
+Platform_Scroller Tutorial/obj/
+Platform_Scroller Tutorial/webBuild/
+
+[Bb]in
+[Rr]elease
+[Dd}ebug
+
+/Build
+
+Thumbs.db
+Desktop.ini
+*.sln
+Platform_Scroller Tutorial/Platform_Scroller Tutorial-csharp.v12.suo
+Platform_Scroller Tutorial/Top Down Shooter-csharp.v12.suo
+Platform_Scroller Tutorial/Top Down Shooter.userprefs
